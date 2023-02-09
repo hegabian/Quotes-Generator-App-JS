@@ -1,0 +1,25 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.headline{
+    font-size: 80px;
+    font-weight: bolder;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.btnSelect {
+    font-size: 20px;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: blue;
+    color: white;
+    border: 3px solid black;
+    transition-property: all;
+    transition-duration: 0.25s;
+}
+.btnSelect:hover {
+    background-color: rgb(27, 128, 27);
+}
